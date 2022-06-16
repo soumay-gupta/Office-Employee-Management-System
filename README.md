@@ -6,10 +6,10 @@ divided in 5 modules
 2)View all employee page:-where you can see all employee information like.
 First Name, Last Name, Salary, Bonus, Phone Number and Role.
 
-3)Add Employee : Where we can Add Employee details.
-4)Remove Employee:-Here we can delete the Employee Details
+3)Add Employee : Where we can Add Employee details.                                                                                                                       
+4)Remove Employee:-Here we can delete the Employee Details                                                                                                               
 by the name of employee.
-5)filter Employee Details:-we can filter or fetch the Employee searching 
+5)filter Employee Details:-we can filter or fetch the Employee searching                                                                                                 
 first/last name ,department or Role.
 
 
